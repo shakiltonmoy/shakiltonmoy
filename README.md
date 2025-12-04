@@ -1,5 +1,5 @@
 <h1 align="center">Shakil Ahmed</h1>
-<h3 align="center"> Evolutionary Biology | Plant Genomics | Computational Biology</h3>
+<h3 align="center"> Plant Genomics | Evolution | Computational Biology</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shakilahmedtonmoy/">
