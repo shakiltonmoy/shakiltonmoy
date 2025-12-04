@@ -26,13 +26,6 @@ I’m curious, open to collaboration, and always eager to try new things.
 
 ---
 
-## 📈 GitHub Activity
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shakiltonmoy&show_icons=true&hide=stars&theme=default"/>
-</p>
-
----
-
 ## 🌱 Currently Working On
 - NUMT/NUPT detection in Fabaceae  
 - Comparative genomics workflows  
