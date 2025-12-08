@@ -19,7 +19,7 @@ Hi, I’m Shakil Ahmed. I love working with plant genomics, and computational bi
 
 ## 🛠️ Skills
 **Bioinformatics:** BLAST, minimap2, samtools, CLUSTAL, DESeq2
-**Programming:** Python, R, Bash, Latex 
+**Programming:** Python, R, Latex 
 **Platforms:** Linux, HPC clusters, Git/GitHub  
 
 ---
