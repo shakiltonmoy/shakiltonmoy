@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shakiltonmoy/shakiltonmoy/main/banner.png" width="100%">
+</p>
+
 <h1 align="center">Shakil Ahmed</h1>
 <h3 align="center">Plant Genomics | Agriculture | Computational Biology</h3>
 
