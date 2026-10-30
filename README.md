@@ -17,10 +17,6 @@
   <a href="https://www.researchgate.net/profile/Shakil-Ahmed-85">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"/>
   </a>
-
-  <a href="mailto:shakilahmed.agr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
